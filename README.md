@@ -1,15 +1,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Javed</h1>
-<h3 align="center">A Passionate Back-End Developer From India</h3>
+<h3 align="center">A Passionate Full-Stack Developer From India</h3>
 
 - 🔭 I’m currently working on **Pizza Delivery App**
 
-- 🌱 I’m currently learning **Spring-Boot, JavaScript ,Mathematics**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📝 I regularly write articles on [Technotrones.com](Technotrones.com)
 
-- 💬 Ask me about **Java, Spring Boot, Data Structure, Algorithms**
+- 💬 Ask me about **Java, JavaScript, React, Data Structure, Algorithms**
 
 - 📫 How to reach me **Khanjaved.sk19@gmail.com**
 
