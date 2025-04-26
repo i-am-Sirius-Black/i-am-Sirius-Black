@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, NextJs, ReactNative**
 
-- 📝 I regularly write articles on [https://ghostwanderer.hashnode.dev/?source=top_nav_blog_home](https://ghostwanderer.hashnode.dev/?source=top_nav_blog_home)
-
 - 💬 Ask me about **JavaScript, Reactjs, React-native, Express, Node, Electron, Java**
 
 - 📫 How to reach me **Khanjaved.sk19@gmail.com**
