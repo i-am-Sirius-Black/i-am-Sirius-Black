@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javed Khan</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 
-- 🔭 I’m currently working on **Onscreen Evaluation and Marking System**
+- 🔭 I’m currently working on **OnScreen Marking and Evaluation System**
 
-- 🌱 I’m currently learning **React, NextJs, ReactNative**
+- 🌱 I’m currently learning **React, ElectronJs, ReactNative**
 
 - 💬 Ask me about **JavaScript, Reactjs, React-native, Express, Node, Electron, Java**
 
